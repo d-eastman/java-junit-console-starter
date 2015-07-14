@@ -3,4 +3,3 @@ REM COMPILE JAVA CLASSES
 
 REM COMBINE JAVA CLASS FILES INTO AN EXECUTABLE JAR FILE
 "c:\program files\java\jdk1.8.0_45\bin\jar.exe" cmfv MANIFEST.MF SillyApp.jar MyPackage/*.class
-
