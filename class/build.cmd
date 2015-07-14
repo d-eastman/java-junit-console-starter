@@ -1,3 +1,6 @@
+dir
+
+
 REM COMPILE JAVA CLASSES
 "c:\program files\java\jdk1.8.0_45\bin\javac.exe" -d ../class ../src/*.java
 
