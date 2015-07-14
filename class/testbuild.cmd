@@ -1,5 +1,3 @@
-dir
-
 REM COMPILE JAVA TEST CLASSES
 "c:\program files\java\jdk1.8.0_45\bin\javac.exe" -cp .;C:\Tools\junit-4.12\junit-4.12.jar -d . ../test/*.java
 
